@@ -1,0 +1,12 @@
+esquema ligacao
+
+
+SENSOR						ESP32
+
+VCC 	VERMELHO				VCC
+
+GND	MARROM					GND	
+
+SCL	LARANJADO				022
+
+SDA	AMARELO					021
